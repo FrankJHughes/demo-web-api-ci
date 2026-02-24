@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="demo-web-api-ci.tests/demo-web-api-ci.tests.csproj" Id="68e6b425-212d-46f1-aff0-776ef00313e9" />
   <Project Path="demo-web-api-ci/demo-web-api-ci.csproj" />
 </Solution>
